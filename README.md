@@ -13,6 +13,7 @@ The main objective of the application car Rental System require a temporary vehi
 
 
 System Actors(Users)
+
 Admin
 Registered Users
 Guest Users
