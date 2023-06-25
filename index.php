@@ -61,10 +61,10 @@
 
     <main>
         <div>
-            <img src="/Images/bob-osias-2--Gg0gpWIA-unsplash.jpg" alt="">
-            <img src="/Images/maksym-tymchyk-bb6NaemzpGY-unsplash.jpg" alt="">
-            <img src="/Images/frankie-id7EXciI1fY-unsplash.jpg" alt="">
-            <img src="/Images/jake-blucker-OJX7gIU3E6U-unsplash.jpg" alt="">
+            <img src="/Images/bob-osias-2--Gg0gpWIA-unsplash.jpg" >
+            <img src="/Images/maksym-tymchyk-bb6NaemzpGY-unsplash.jpg" >
+            <img src="/Images/frankie-id7EXciI1fY-unsplash.jpg" >
+            <img src="/Images/jake-blucker-OJX7gIU3E6U-unsplash.jpg" >
         </div>
         <div>
             <div>
@@ -75,7 +75,7 @@
                 our customers.</p>
                 <button>Learn More</button>
             </div>
-        <img src="/Images/eduardo-flores-xpcUYaZtplI-unsplash.jpg" alt="">
+        <img src="/Images/eduardo-flores-xpcUYaZtplI-unsplash.jpg">
         </div>
         <div>
             <p>Kenya's largest fleet of new quality cars</p>
@@ -84,32 +84,64 @@
                 <p>Passenger cars</p>
                 <p>Variety of cars available from small eco-friendly to larger station wagons</p>
                 <button>Read More</button>
-                <img src="/Images/maxime-dore-lopl80HjSPs-unsplash.jpg" alt="">
+                <img src="/Images/maxime-dore-lopl80HjSPs-unsplash.jpg">
             </div>
             <div>
                 <p>Electric</p>
                 <p>Our fleet of 100% electric vehicles just keeps growing.</p>
                 <button>Read More</button>
-                <img src="/Images/ernest-ojeh-aEytUoE1Tkc-unsplash.jpg" alt="">
+                <img src="/Images/ernest-ojeh-aEytUoE1Tkc-unsplash.jpg">
              </div>
              <div>
                 <p>4x4 SUVs</p>
                 <p>No one offers better range of new and well maintained 4x4 SUVs</p>
                 <button> more </button>
-                <img src="/Images/zenigame-photo-oaZ9WEVW7g8-unsplash.jpg" alt="">
+                <img src="/Images/zenigame-photo-oaZ9WEVW7g8-unsplash.jpg" >
              </div>
              <div>
                 <p>Minivans</p>
                 <p>Small or large group? We cover everything from 7 to 17 seat people carriers</p>
                 <button> more</button>
-                <img src="/Images/josh-withers-hZ8tahOWVvI-unsplash.jpg" alt="">
+                <img src="/Images/josh-withers-hZ8tahOWVvI-unsplash.jpg">
              </div>
         </div>
         <div>
-            
+            <div>
+                <img src="/Images/6947636_distance_travel_vacation_icon.png">
+                <p>Limited mileage</p>
+                <p>We also offer daily rates with 100 or 200 km per day</p>
+                <button>Book now</button>
+            </div>
+            <div>
+                <img src="/Images/5349749_faq_faqs_help_info_information_icon.png">
+                <p>FAQs</p>
+                <p>Questions and answers about the car rental process</p>
+                <button>Read More</button>
+            </div>
+            <div>
+                <img src="/Images/6071776_agreement_conditions_contract_policy_terms_icon.png">
+                <p>Environmental initiatives</p>
+                <p>The only ISO 14001 certified car rental in Iceland</p>
+                <button>Read More</button>
+            </div>
         </div>
-
-
+        <div>
+            <p>What are you looking for?</p>
+            <p>Search bar</p>
+            <p>Follow Us on</p>
+            <img src="/Images/104458_facebook_social media_fb_social_icon.png">
+            <img src="/Images/1161954_instagram_icon.png">
+            <img src="/Images/104461_twitter_icon.png">
+        </div>
+        <div>
+            <p>More than 55 Years of Reliable Customer Service</p>
+            <p>Founded back in 1966 Höldur ehf - Bílaleiga Akureyrar franchisee for Europcar car 
+                rental is the largest car rental operator in Iceland. The company has many rental
+                 outlets and service stations scattered around the island. Our broad fleet of new 
+                 and well maintained cars counts more than 7000 during the high season. Swift, good 
+                 and personal customer service has been our top priority from day one.
+            </p>
+        </div>
     </main>
 </body>
 </html>
