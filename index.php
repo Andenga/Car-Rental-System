@@ -10,7 +10,9 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Car Rental</title>
 </head>
+
 <body>
+
     <header>
     <h1>CAR RENTAL</h1>
     <div class = "main-menu">
