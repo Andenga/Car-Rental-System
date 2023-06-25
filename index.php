@@ -143,5 +143,8 @@
             </p>
         </div>
     </main>
+    <footer>
+        <?php require 'footer.php'; ?>
+    </footer>
 </body>
 </html>
