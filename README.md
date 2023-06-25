@@ -1,5 +1,6 @@
 # Car-Rental-System
 
+
 3. Two-wheeler Rental System 
 4. In this project, the seller will act as an admin and they can put vehicles on the dashboard from where anyone can view and ask for rent. On the other end, a user can visit the panel, check the listed items, and can book any of them as per their need. This PHP-based project will allow you to set up a web-based online rental store and each vehicle will have a different fee besides it also depends on the number of days a user is asking for. After confirmation of the selected vehicle, a unique number will be provided to the customer for reference.  The project will also have a feedback section where users can provide ratings and additional comments. This two-wheeler rental system project consists of:  Reduces the manual entry time. Easy to track and manage Low maintenance & does not require excess modifications
 
