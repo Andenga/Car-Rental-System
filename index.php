@@ -8,11 +8,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>TWENDE CARS</title>
+    <title>Car Rental</title>
 </head>
 <body>
     <header>
-    <h1>TWENDE CARS</h1>
+    <h1>CAR RENTAL</h1>
     <div class = "main-menu">
         <p>Our Deals</p>
         <p>Services</p>
