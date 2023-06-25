@@ -7,8 +7,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
     <title>Car Rental</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
 <body>
@@ -37,6 +37,9 @@
             <p>FAQs</p>
             </div>
         <p>Contact Us</p>
+        <p>Admin</p>
+        <p>Registered User</p>
+        <p>Geust</p>
     </div>
     <h2>Need a rental car in Kenya? You've come to the right place.</h2>
     <div class="searchbar">
