@@ -13,35 +13,11 @@
 
 <body>
 
-    <header>
-    <h1>CAR RENTAL</h1>
-    <div class = "main-menu">
-        <p>Our Deals</p>
-        <p>Services</p>
-        <p>Vehicles</p>
-            <div class="dropdown">
-            <p>Passenger Cars</p>
-            <p>Electric</p>
-            <p>4x4 SUVs</p>
-            <p>Mini Vans</p>
-            </div>
-        <p>SPecial Vehicles</p>
-            <div class="dropdown">
-            <p>Motor Homes</p>
-            <p>Campers</p>
-            <p>Luxury Cars</p>
-            </div>
-        <p>About Us</p>
-        <p>Terms And Policies</p>
-            <div class="drop-down">
-            <p>FAQs</p>
-            </div>
-        <p>Contact Us</p>
-        <p>Admin</p>
-        <p>Registered User</p>
-        <p>Geust</p>
-    </div>
+    <div class="topheader">
+
+    <main>
     <h2>Need a rental car in Kenya? You've come to the right place.</h2>
+
     <div class="searchbar">
         <p>Whats type of car</p>
         <div>
@@ -57,14 +33,16 @@
     <p>City Nairobi</p>
     <p>Search</p>
     </div>
+
     <div class="header-buttons">
         <p>See our deals</p>
         <p>Our Services</p>
         <p>Contact Us</p>
     </div>
-    </header>
 
-    <main>
+    </div>
+
+
         <div>
             <img src="/Images/bob-osias-2--Gg0gpWIA-unsplash.jpg" >
             <img src="/Images/maksym-tymchyk-bb6NaemzpGY-unsplash.jpg" >
@@ -147,7 +125,8 @@
                  and personal customer service has been our top priority from day one.
             </p>
         </div>
-    </main>
+</main>
+    
     <footer>
         <?php require 'footer.php'; ?>
     </footer>
