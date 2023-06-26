@@ -21,6 +21,13 @@
 
     </div>
 
+    <div class="header-buttons">
+        <a href="#">See Our Deals</a>
+        <a href="#">Vehicles</a>
+        <a href="#">Contact us</a>
+        <a href="#">Road Safety Measures</a>
+    </div>
+
     </div>
 
 

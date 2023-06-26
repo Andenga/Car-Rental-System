@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
     <script src="header.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
     <div class="header-container">
@@ -24,7 +25,8 @@
                 <li><a href="#">Vehicles</a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
-                <li><a href="#">Account</a></li>
+                <li><a href="Account.php">Account</a></li>
+                <li><a href="#">Road Safety Measures</a></li>
             </ul>
             </div>
         </div>

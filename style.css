@@ -58,8 +58,22 @@
     color: beige;
   }
 
-  
+  .header-buttons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 
+  .header-buttons a{
+    color: beige;
+  }
+
+  .header-buttons a:hover{
+    color: aquamarine;
+  }
+
+  .header-buttons a:visited{
+    color: rgb(240, 241, 238);
+  }
 
   /*Footer*/
 
