@@ -12,6 +12,11 @@
     <header>
         <?php require "header.php"; ?>
     </header>
+
+    <main></main>
+    <footer>
+        <?php require "footer.php" ?>
+    </footer>
     
 </body>
 </html>

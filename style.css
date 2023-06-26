@@ -1,3 +1,5 @@
+
+/*Header*/
 .header-container{
     display: flex;
     justify-content: space-between;
@@ -16,6 +18,7 @@
     align-content: center;
 }
 
+/*Burger Button*/
 .burger-menu {
     display: inline-block;
   }
@@ -48,4 +51,17 @@
   .show-menu .menu-items {
     display: block;
   }
+  /*End of header*/
+
+
+
+
+  /*Footer*/
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+  }
   
+  /*End of Footer*/
