@@ -1,4 +1,9 @@
 
+img{
+  height: 50%;
+  width: 50%;
+}
+
 /*Header*/
 .header-container{
     display: flex;
@@ -58,11 +63,6 @@
     color: beige;
   }
 
-  .header-buttons{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-  }
-
   .header-buttons a{
     color: beige;
   }
@@ -73,6 +73,16 @@
 
   .header-buttons a:visited{
     color: rgb(240, 241, 238);
+  }
+
+  .flex2{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .grid4{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
 
   /*Footer*/
